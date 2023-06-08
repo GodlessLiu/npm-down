@@ -1,3 +1,14 @@
-{
-    "fv3": "GodlessLiu/fast-vue3"
-}
+[
+    {
+        "name": "fast-vue3",
+        "path": "fv3",
+        "description": "a vue3 template",
+        "url": "GodlessLiu/fast-vue3"
+    },
+    {
+        "name": "fast-nuxt3",
+        "path": "fn3",
+        "description": "a nuxt3 template",
+        "url": "GodlessLiu/nuxt3-demo"
+    }
+]
